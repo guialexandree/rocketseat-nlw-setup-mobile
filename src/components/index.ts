@@ -1,3 +1,7 @@
 export * from './Loading'
 export * from './Header'
 export * from './HabitDay'
+export * from './BackButton'
+export * from './CheckBox'
+export * from './ProgressBar'
+export * from './HabitsEmpty'
